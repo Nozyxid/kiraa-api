@@ -2,3 +2,5 @@ mongodb = ""
 sendemail = 'nvhitori@gmail.com'
 fromsendemail = ''
 sendpwmail = ""
+recaptcha_key_1 = ''
+recaptcha_key_2 = ''
