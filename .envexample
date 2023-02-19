@@ -1,0 +1,4 @@
+mongodb = ""
+sendemail = 'nvhitori@gmail.com'
+fromsendemail = 'nvhitori@gmail.com'
+sendpwmail = "Password EMAIL SMTP"
