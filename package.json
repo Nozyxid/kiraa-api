@@ -1,7 +1,7 @@
 {
-  "name": "kiraa-api",
-  "version": "1.0.0",
-  "description": "RestAPI Simple Verification",
+  "name": "rest-api-alpis",
+  "version": "2.0.0",
+  "description": "make by alip free rest api",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nvsenpai/kiraa-api.git"
+    "url": "git+https://github.com/AlipBot/Api-Alpis.git"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "SENP4I",
+  "author": "AlipBot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nvsenpai/issues"
+    "url": "https://github.com/AlipBot/Api-Alpis/issues"
   },
-  "homepage": "https://github.com/nvsenpai/kiraa-api#readme",
+  "homepage": "https://github.com/AlipBot/Api-Alpis#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
@@ -35,7 +35,7 @@
     "body-parser": "^1.20.1",
     "canvacord": "^5.3.0",
     "canvas": "^2.9.1",
-    "canvas-gif": "github:nvhitori/canvas-gif-attp",
+    "canvas-gif": "github:AlipBot/canvas-gif-attp",
     "cheerio": "^1.0.0-rc.11",
     "connect-flash": "^0.1.1",
     "contains-emoji": "^1.1.4",
@@ -79,6 +79,8 @@
     "soundoftext-js": "^1.0.2",
     "ssl-express-www": "^3.0.8",
     "tinyurl": "^1.1.7",
-
+    "translate-google": "^1.5.0",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.2"
   }
 }
